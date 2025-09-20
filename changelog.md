@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/ehmpathy/declastruct-stripe-sdk/compare/v1.0.2...v1.0.3) (2025-09-20)
+
+
+### Bug Fixes
+
+* **deps:** bump deps and fix audit ([f2b3994](https://github.com/ehmpathy/declastruct-stripe-sdk/commit/f2b399403b74d8ba1482eaa7456bcddcab930185))
+
 ## [1.0.2](https://github.com/ehmpathy/declastruct-stripe-sdk/compare/v1.0.1...v1.0.2) (2025-09-20)
 
 

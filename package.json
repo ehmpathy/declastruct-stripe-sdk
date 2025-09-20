@@ -2,7 +2,7 @@
   "name": "declastruct-stripe-sdk",
   "author": "ehmpathy",
   "description": "declarative control of stripe constructs, via declastruct",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": "ehmpathy/declastruct-stripe-sdk",
   "homepage": "https://github.com/ehmpathy/declastruct-stripe-sdk",
   "keywords": [
